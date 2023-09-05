@@ -4,7 +4,8 @@
 ## Description
 The data is 240 hours and is recorded by 401 Indian. It is recorded in both quiet and noisy environment, which is more suitable for the actual application scenario. The recording content is rich, covering economic, entertainment, news, spoken language, etc. All texts are manually transferred, with high accuracy. It can be applied to speech recognition, machine translation, voiceprint recognition.
 
-For more details, please refer to the link: https://bit.ly/3S6inCh
+For more details, please refer to the link: https://www.nexdata.ai/datasets/118?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
